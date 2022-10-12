@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Kółko_i_Krzyżyk\bin\Debug\Kółko_i_Krzyżyk.exe.config
+C:\Users\HP\source\repos\Kółko_i_Krzyżyk\bin\Debug\Kółko_i_Krzyżyk.exe
+C:\Users\HP\source\repos\Kółko_i_Krzyżyk\bin\Debug\Kółko_i_Krzyżyk.pdb
+C:\Users\HP\source\repos\Kółko_i_Krzyżyk\obj\Debug\Kółko_i_Krzyżyk.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Kółko_i_Krzyżyk\obj\Debug\Kółko_i_Krzyżyk.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Kółko_i_Krzyżyk\obj\Debug\Kółko_i_Krzyżyk.Form1.resources
+C:\Users\HP\source\repos\Kółko_i_Krzyżyk\obj\Debug\Kółko_i_Krzyżyk.Properties.Resources.resources
+C:\Users\HP\source\repos\Kółko_i_Krzyżyk\obj\Debug\Kółko_i_Krzyżyk.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Kółko_i_Krzyżyk\obj\Debug\Kółko_i_Krzyżyk.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Kółko_i_Krzyżyk\obj\Debug\Kółko_i_Krzyżyk.exe
+C:\Users\HP\source\repos\Kółko_i_Krzyżyk\obj\Debug\Kółko_i_Krzyżyk.pdb
